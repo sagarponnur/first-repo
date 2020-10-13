@@ -1,3 +1,3 @@
 #Demo
 
-I am learning Githun
+I am learning Github
